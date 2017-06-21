@@ -48,9 +48,8 @@ import { CognitoIdentityServiceProvider } from 'aws-sdk/dist/aws-sdk-react-nativ
 
 ## Screenshots
 
-![signin](screenshots/signin.png | width=200)
-![register](screenshots/register.png | width=200)
-![verify](screenshots/verify.png | width=200)
-![forgot](screenshots/forgot.png | width=200)
- 
- 
+
+<img src="https://github.com/torrens/react-native-aws-cognito-expo/blob/master/screenshots/signin.png" width="200"/>
+<img src="https://github.com/torrens/react-native-aws-cognito-expo/blob/master/screenshots/register.png" width="200"/>
+<img src="https://github.com/torrens/react-native-aws-cognito-expo/blob/master/screenshots/verify.png" width="200"/>
+<img src="https://github.com/torrens/react-native-aws-cognito-expo/blob/master/screenshots/forgot.png" width="200"/>
