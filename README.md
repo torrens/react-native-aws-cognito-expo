@@ -5,8 +5,8 @@ An application to demonstrate how to use AWS Cognito in a react-native applicati
 ## Get Started 
 
 1. Add your AWS Cognito UserPoolId and ClientId to /src/authentication/auth.js.
-2. Open this project in Expo XDE.
-3. Open the project in a Simulator. 
+2. Open the project in Expo XDE.
+3. Open the project in a Simulator to see it working. 
 
 ## amazon-cognito-identity-js
 
@@ -48,8 +48,14 @@ import { CognitoIdentityServiceProvider } from 'aws-sdk/dist/aws-sdk-react-nativ
 
 ## Screenshots
 
+### Signin
+<img src="https://github.com/torrens/react-native-aws-cognito-expo/blob/master/screenshots/signin.png" width="300"/>
 
-<img src="https://github.com/torrens/react-native-aws-cognito-expo/blob/master/screenshots/signin.png" width="200"/>
-<img src="https://github.com/torrens/react-native-aws-cognito-expo/blob/master/screenshots/register.png" width="200"/>
-<img src="https://github.com/torrens/react-native-aws-cognito-expo/blob/master/screenshots/verify.png" width="200"/>
-<img src="https://github.com/torrens/react-native-aws-cognito-expo/blob/master/screenshots/forgot.png" width="200"/>
+### Register
+<img src="https://github.com/torrens/react-native-aws-cognito-expo/blob/master/screenshots/register.png" width="300"/>
+
+### Verify
+<img src="https://github.com/torrens/react-native-aws-cognito-expo/blob/master/screenshots/verify.png" width="300"/>
+
+### Forgot Password
+<img src="https://github.com/torrens/react-native-aws-cognito-expo/blob/master/screenshots/forgot.png" width="300"/>
