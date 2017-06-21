@@ -1,4 +1,4 @@
-#React-Native AWS Cognito EXPO
+# React-Native AWS Cognito EXPO
 
 An application to demonstrate how to use AWS Cognito in a react-native application.
 
@@ -48,9 +48,9 @@ import { CognitoIdentityServiceProvider } from 'aws-sdk/dist/aws-sdk-react-nativ
 
 ## Screenshots
 
-![signin](screenshots/signin.png)
-![register](screenshots/register.png)
-![verify](screenshots/verify.png)
-![forgot](screenshots/forgot.png)
+![signin](screenshots/signin.png | width=200)
+![register](screenshots/register.png | width=200)
+![verify](screenshots/verify.png | width=200)
+![forgot](screenshots/forgot.png | width=200)
  
  
