@@ -1,0 +1,18 @@
+{
+  "name": "react-native-aws-cognito-expo",
+  "version": "1.0.0",
+  "description": "A sample application to show AWS Cognito in a react-native application.",
+  "author": null,
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "aws-sdk": "git://github.com/aws/aws-sdk-js.git#react-native",
+    "expo": "17.0.0",
+    "react": "16.0.0-alpha.6",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-17.0.0.tar.gz",
+    "react-native-vector-icons": "^4.2.0",
+    "react-native-elements": "^0.13.0",
+    "react-native-keyboard-aware-scroll-view": "^0.2.9",
+    "react-navigation": "^1.0.0-beta.11"
+  }
+}
