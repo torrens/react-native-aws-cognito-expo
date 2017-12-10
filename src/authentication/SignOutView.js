@@ -1,4 +1,5 @@
 import React from 'react';
+import {AsyncStorage} from "react-native";
 import SignInView from './SignInView';
 import FAIcon from 'react-native-vector-icons/FontAwesome';
 
@@ -15,6 +16,11 @@ class SignOutView extends SignInView {
     constructor(props) {
         props.signout = true;
         super(props)
+    }
+
+    
+	componentDidMount() {
+        AsyncStorage.removeItem('USER_ID');
     }
 }
 
